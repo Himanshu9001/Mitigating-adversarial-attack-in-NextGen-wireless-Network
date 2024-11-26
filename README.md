@@ -82,8 +82,8 @@ The overall workflow includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+git clone https://github.com/Himanshu9001/Mitigating-adversarial-attack-in-NextGen-Network.git
+   cd Mitigating-adversarial-attack-in-NextGen-Network
    ```
 
 2. Install required dependencies:

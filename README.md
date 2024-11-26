@@ -1,4 +1,3 @@
-Let’s refine it with more depth and make it more professional. Here's a revised and enriched `README.md`:
 
 ---
 
@@ -21,8 +20,7 @@ This repository implements **adversarial attack mitigation techniques** for **de
 9. [Performance Metrics](#performance-metrics)
 10. [Results](#results)
 11. [Future Enhancements](#future-enhancements)
-12. [Contributing](#contributing)
-13. [License](#license)
+
 
 ---
 
